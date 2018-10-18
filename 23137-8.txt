@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of Diary in America, Series One, by 
+The Project Gutenberg EBook of Diary in America, Series One, by
 Frederick Marryat (AKA Captain Marryat)
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -209,7 +209,7 @@ there's enough of it.
 The above remarks will testify, that travellers in America have great
 difficulties to contend with, and that their channels of information
 have been chiefly those of the drawing-room or dinner-table.  Had I
-worked through the same, I should have found then very difficult of
+worked through the same, I should have found them very difficult of
 access; for the Americans had determined that they would no longer
 extend their hospitality to those who returned it with ingratitude--nor
 can they be blamed.  Let us reverse the case.  Were not the doors of
@@ -369,7 +369,7 @@ labour.
 
 In a country where the ambition and energies of man have been roused to
 such an extent, the great point is to find out worthy incitements for
-ambition to feed upon.  A virtue undirected into a wrong channel may, by
+ambition to feed upon.  A virtue directed into a wrong channel may, by
 circumstances, prove little better than (even if it does not sink down
 into) actual vice.  Hence it is that a democratic form of government is
 productive of such demoralising effects.  Its rewards are few.  Honours
@@ -1052,7 +1052,7 @@ puffed up; drawings made, in which every street was laid down and named;
 churches, theatres, hospitals, rail-road communications, canals,
 steam-boats in the offing, all appeared on paper as if actually in
 existence, when, in fact, the very site was as yet a forest, with not a
-log--but within a mile of the pretended city.  Lots in these visionary
+log hut within a mile of the pretended city.  Lots in these visionary
 cities were eagerly purchased, increased daily in value, and afforded a
 fine harvest to those who took advantage of the credulity of others.
 One man would buy a lot with extensive _water privileges_, and, upon
@@ -1800,7 +1800,7 @@ as the centre attraction.  Six miles of roast pig! and that in New York
 city alone; and roast pig in every other city, town, hamlet, and
 village, in the Union.  What association can there be between roast pig
 and independence?  Let it not be supposed that there was any deficiency
-in the very necessary articks of potation on this auspicious day: no!
+in the very necessary articles of potation on this auspicious day: no!
 the booths were loaded with porter, ale, cyder, mead, brandy, wine,
 ginger-beer, pop, soda-water, whiskey, rum, punch, gin slings,
 cocktails, mint julips, besides many other compounds, to name which
@@ -2148,7 +2148,7 @@ Here again is a rivalry between Albany and Troy, each of them glorying
 in possessing the largest seminary for the education of young ladies,
 who are sent from every State of the Union, to be finished off at one or
 the other of them.  Here, and indeed in many other establishments, the
-young ladies now quitting it have diplomas given, to them, if they pass
+young ladies now quitting it have diplomas given to them, if they pass
 their examinations satisfactorily.  They are educated upon a system
 which would satisfy even Miss Martineau, and prepared to exercise the
 rights of which she complains that women have been so unjustly deprived.
@@ -5888,13 +5888,13 @@ very beautiful and wild, and I could not help fancying what a pretty
 spot it would one day be, when it should be cleared, and farm-houses
 built on the banks of the river.
 
-On our way we called upon a man who had been in the hush but a year or
+On our way we called upon a man who had been in the bush but a year or
 so; he had a wife and six children.  He was young and healthy, and
 although he had been used to a life of _literary_ idleness, he had made
 up his mind to the change, and taken up the axe--a thing very few people
 can do.  I never saw a person apparently more cheerful and contented.
 He had already cleared away about fifteen acres, and had procured a
-summer crop from off a portion of it the year before! having no other
+summer crop from off a portion of it the year before, having no other
 assistance than his two boys, one thirteen and the other fourteen years
 old, healthy, but not powerfully built lads.  When we called upon him,
 he was busied in burning the felled timber, and planting Indian corn.
@@ -6162,7 +6162,7 @@ through the Winnebago lake.  The roads through the forests had been very
 bad, and the men and horses showed signs of fatigue; but we had now
 passed through all the thickly wooded country, and had entered into the
 prairie country, extending to Fort Winnebago, and which was beautiful
-beyond concoction.  Its features alone can be described; but its effects
+beyond conception.  Its features alone can be described; but its effects
 can only be felt by being seen.  The prairies here are not very large,
 seldom being above six or seven miles in length or breadth; generally
 speaking, they lie in gentle undulating flats, and the ridges and hills
@@ -6283,7 +6283,7 @@ bore us down upon another; as soon as we were clear above water, we were
 foul and entangled below.  It was a pretty general average; but, what
 was worse than all a snag had intercepted and unshipped our rudder, and
 we were floating away from it, as it still remained fixed upon the
-sunken tree.  We had no boat with us, not oven a _dug-out_--(a canoe
+sunken tree.  We had no boat with us, not even a _dug-out_--(a canoe
 made out of the trunk of a tree)--so one of the men climbed on shore by
 the limbs of an oak, and went back to disengage it.  He did so, but not
 being able to resist the force of the stream, down he and the rudder
@@ -6600,7 +6600,7 @@ channels, often more: it courses through a succession of bold bluffs,
 rising sometimes perpendicularly, and always abruptly from the banks or
 flat land, occasionally diversified by the prairies, which descend to
 the edge of the stream.  These bluffs are similar to those I have
-described in the Wisconsin river and Prairie do Chien, but are on a
+described in the Wisconsin river and Prairie du Chien, but are on a
 grander scale, and are surmounted by horizontal layers of limestone
 rock.  The islands are all covered with small timber and brushwood, and
 in the spring, before the leaves have burst out, and the freshets come
@@ -6752,15 +6752,247 @@ and his mother a Sioux; his wife is also a Sioux, so that his family are
 three-quarters red.  He had been residing many years with the Sioux
 tribes, trafficking with them for peltry, and has been very judicious in
 his treatment of them, not interfering with their pursuits of hunting;
-he has, moreover, to a certain degree civilised them, and ob
+he has, moreover, to a certain degree civilised them, and obtained great
+power over them. He has induced the band who reside with him to
+cultivate a sufficiency of ground for their sustenance, but they still
+course the prairie on their fiery horses, and follow up the chase of the
+buffalo. They adhere also to their paint, their dresses, and their
+habits, and all who compose his band are first-rate warriors; but they
+are all converted to Christianity.
 
-(This chapter is 2 or 3 pages incomplete.)
+Latterly two missionaries have been sent out to his assistance. The
+Dacotah language has been reduced to writing, and most of them, if not
+all, can write and read. I have now in my possession an elementary
+spelling-book and Watts's catechism, printed at Boston, in the Sioux
+tongue, and many letters and notes given to me by the missionaries,
+written to them by the painted warriors; of course, they do not touch
+spirituous liquors. The dress of the band which came down with Mr.
+Rainville was peculiarly martial and elegant. Their hair is divided in
+long plaits in front, and ornamented with rows of circular silver
+buckles; the ear is covered with ear-rings up to the top of it, and on
+the crown of the head they wear the war-eagle's feathers, to which they
+are entitled by their exploits. The war-eagle is a small one of the
+genus, but said to be so fierce that it will attack and destroy the
+largest of his kind; the feathers are black about three inches down from
+the tips, on each side of the stem, the remainder being white. These
+feathers are highly valued, as the bird is scarce and difficult to kill.
+I saw two very fine feathers carried by a Sioux warrior on the point of
+his spear, andI asked him if he would part with them. He refused, saying
+that they cost too dear. I asked him how much, and he replied that he
+had given a very fine horse for them. For every scalp taken from the
+enemy, or grisly bear killed, an Indian is entitled to wear one feather,
+and no more; and this rule is never deviated from. Were an Indian to put
+on more feathers than he is entitled to, he would be immediately
+disgraced. Indeed, you can among this primitive people know all their
+several merits as warriors. I have now the shield of Yank-ton Sioux, a
+chief of a tribe near the Missouri. In the centre is a black eagle,
+which is his totem, or heraldic distinction; on each side hang war-
+eagle's feathers and small locks of human hair, denoting the number of
+scalps which he has taken, and below are smaller feathers, equal to the
+number of wounds he has received. These warriors of Mr. Rainville's were
+constantly with me, for they knew I was an English warrior, as they
+called me, and they are very partial to the English. It was really a
+pleasing sight, and a subject for meditation, to see one of these fine
+fellows, dressed in all his wild magnificence, with his buffalo robe on
+his shoulders, and his tomahawk by his side, seated at a table, and
+writing out for me a Sioux translation of the Psalms of David.
+
+Mr. Rainville's children read and write English, French, and Sioux. They
+are modest and well-behaved, as the Indian women generally are. They had
+prayers every evening, and I used to attend them. The warriors sat on
+the floor round the room; the missionary, with Mr. Rainville and his
+family, in the centre; and they all sang remarkably well. This system
+with these Indians is, in my opinion, very good. All their fine
+qualities are retained; and if the system be pursued I have no doubt but
+that the sternness and less defensible portions of their characters will
+be gradually obliterated.
+
+A half-bred, of the name of Jack Fraser, came up with us in the steam-
+boat. He has been admitted into one of the bands of Sioux who live near
+the river, and is reckoned one of the bravest of their warriors. I
+counted twentyeight notches on the handle of his tomahawk, every one
+denoting a scalp taken, and when dressed he wears eagle's feathers to
+that amount. He was a fine intellectual-looking man. I conversed with
+him through the interpreter, and he told me that the only man he wished
+to kill was his father. On inquiring why, he replied that his father had
+broken his word with him; that he had promised to make a white man of
+him (that is to have educated him, and brought him up in a civilised
+manner), and that he had left him a Sioux. One could not help admiring
+the thirst for knowledge and the pride shown by this poor fellow,
+although mixed up with their inveterate passion for revenge.
+
+The following story is told of Jack Fraser:—When he was a lad of twelve
+years old he was with three other Sioux Indians, captured by the
+Chippeways. At that period these tribes were not at war, but they were
+preparing for it; the Chippeways, therefore, did not kill, but they
+insulted all the Sioux who fell into their hands.
+
+The greatest affront to a Sioux is to cut off his hair, which is worn
+very long before and behind, hanging down in plaits ornamented with
+silver brooches. The Chippeways cut off the hair of the three Sioux
+Indians, and were about to do the same office for Jack, when he threw
+them off, telling them that if they wanted his hair, they mnst take it
+with the scalp attached to it.
+
+This boldness on the part of a boy twelve years old astonished the
+Chippeways, and they all put their hands to their mouths, as the Indians
+always do when they are very much surprised. They determined, however,
+to ascertain if Jack was really as brave as he appeared to be, and
+whether he had fortitude to bear pain.
+
+One of the chiefs refilled his pipe, and put the hot bowl of it to
+Jack's nether quarters, and kept it there in close contact until he had
+burnt a hole in his flesh as wide as a dollar, and half an inch deep.
+Jack never flinched during the operation, and the Indians were so
+pleased with him that they not only allowed Jack to retain his hair, but
+they gave him his liberty.
+
+The Sioux are said to be very honest, except on the point of stealing
+horses; but this, it must be recollected, is a part of their system of
+warfare, and is no more to be considered as stealing than is our taking
+merchant-vessels on the high seas. Indeed, what are the vast rolling
+prairies but as the wide ocean, and their armed bands that scour them
+but men-of-war and privateers, and the horses which they capture but
+unarmed or defenceless convoys of merchant-vessels? But sometimes they
+steal when they are not at war, and this is from the force of habit, and
+their irresistible desire to possess a fine horse. Mr. Rainville
+informed me that three hundred dollars was a very common price for a
+good horse, and if the animal was very remarkable, swift, and well-
+trained for buffalo hunting, they would give any sum (or the equivalent
+for it) that they could command.
+
+In many customs the Sioux are closely allied to the Jewish nation;
+indeed, a work has been published in America to prove that the Indians
+were originally Jews. There is always a separate lodge for the woman to
+retire to before and after childbirth, observing a similar purification
+to that prescribed by Moses. Although there ever will be, in all
+societies, instances to the contrary, chastity is honoured among the
+Sioux. They hold what they term Virgin Feasts, and when these are held,
+should any young woman accept the invitation who has by her misconduct
+rendered herself unqualified for it, it is the duty of any man who is
+aware of her unfitness, to go into the circle and lead her out. A
+circumstance of this kind occurred the other day, when the daughter of a
+celebrated chief gave a Virgin Feast: a young man of the tribe walked
+into the circle and led her out; upon which the chief led his daughter
+to the lodge of the young Sioux, and told him that he gave her to him
+for his wife, but the young man refused to take her, as being unworthy.
+But what is more singular (and I have it from authority which is
+unquestionable), they also hold Virgin Feasts for the young men, and
+should any young man take his seat there who is unqualified, the woman
+who is aware of it must lead him out, although in so doing, she convicts
+herself; nevertheless it is considered a sacred duty and is done.
+
+The shells found in their western rivers are very interesting. I had
+promised to procure some for Mr. Lea, of Philadelphia, and an old squaw
+had been despatched to obtain them. She brought me a large quantity, and
+then squatted down by my side. I was seated on the stone steps before
+the door, and commenced opening and cleaning them previous to packing
+them up. She watched me very attentively for half an hour, and then got
+up, and continued, as she walked away, to chuckle and talk aloud. "Do
+you know what the old woman says?" said the old Canadian interpreter to
+me; "she says, the man's a fool; he keeps the shells, and throws the
+meat away.”
+
+The French Canadians, who are here employed by the Fur Company, are a
+strange set of people. There is no law here, or appeal to law; yet they
+submit to authority, and are managed with very little trouble. They bind
+themselves for three years, and during that time (little occasional
+deviations being overlooked) they work diligently and faithfully; ready
+at all seasons and at all hours, and never complaining, although the
+work is often extremely hard. Occasionally they return to Canada with
+their earnings, but the major part have connected themselves with Indian
+women, and have numerous families; for children in this fine climate are
+so numerous, that they almost appear to spring from the earth.
+
+While I remained at St. Peters, one or two of the settlers at Red River
+came down. Red River is a colony established by Lord Selkirk, and at
+present is said to be composed of a population of four thousand. This
+settlement, which is four degrees of latitude north of St. Peters, has
+proved very valuable to the Hudson Bay Company, who are established
+there; most of their servants remaining at it after their three years'
+service is completed, and those required to be hired in their stead
+being obtained from the settlement. Formerly they had to send to
+Montreal for their servants, and those discharged went to Canada and
+spent their money in the provinces; now that they remain at the
+settlement, the supplies coming almost wholly from the stores of the
+Company, the money returns to it, and they procure their servants
+without trouble. These settlers informed me that provisions were
+plentiful and cheap, beef being sold at about two-pence per lb.; but
+they complained, and very naturally, that there was no market for their
+produce, so that if the Company did not purchase it, they must consume
+it how they could; besides that the supply being much greater than the
+demand, of course favour was shown. This had disgusted many of the
+settlers, who talked of coming down further south. One of the greatest
+inducements for remaining at Red River, and which occasioned the
+population to be so numerous, was the intermixture by marriage with the
+Indian tribes surrounding them. They do not like to return to Canada
+with a family of half-breeds, who would not there be looked upon with
+the same consideration as their parents.
+
+I give the substance of this conversation, without being able to
+substantiate how far it is true: the parties who gave me the information
+were certainly to be classed among that portion of the settlers who were
+discontented.
 
 
 
 VOLUME TWO, CHAPTER TWENTY NINE.
 
-(This chapter is 2 or 3 pages incomplete) my wrist that he might not
+Fort Snelling is well built, and beautifully situated: as usual, I found
+the officers gentlemanlike, intelligent, and hospitable; and together
+with their wives and families, the society was the most agreeable that I
+became acquainted with in America. They are better supplied here than
+either at Fort Crawford or Fort Winnebago, having a fine stock of cattle
+on the prairie, and an extensive garden cultivated for the use of the
+garrison. The principal amusement of the officers is, as may be
+supposed, the chase; there is no want of game in the season, and they
+have some very good dogs of every variety. And I here had the pleasure
+of falling in with Captain Scott, one of the first Nimrods of the United
+States, and who, perhaps, has seen more of every variety of hunting than
+any other person. His reputation as a marksman is very great; and there
+is one feat which he has often performed that appears almost incredible.
+Two potatoes being thrown up in the air, he will watch his opportunity
+and pass his rifle ball through them both. I had long conversations with
+him; and as, from his celebrity, he may be accounted a public character,
+I use no ceremony in amusing my readers with two or three personal
+anecdotes which he related to me.
+
+First—Showing how it was that, in his after life, Captain Scott became
+so celebrated a hunter:—
+
+"I was hardly twelve years old, and had never been allowed to go out
+gunning, although I was permitted to rest my father's gun upon a rail
+when he returned home with it charged, and fire it off in that way; and
+that was the greatest pleasuie I then knew. We lived at Beddington, in
+the State of Vermont, where I was born. One morning they brought down
+the intelligence that three bears had been seen near the mill, about a
+mile from my father's house. The whole country turned out, some with
+rifles, and others with what weapons they could get; the blacksmith
+shouldered his sledge hammer, the labourer his pitch-fork; for all I
+know to the contrary, the barber carried his pole. There were two other
+boys, my companions, but older than me, whose names were Pratt; they
+went out and carried guns. The chase proved to be an old she bear, a
+gray-nose, as they are termed, with her two cubs. One of the boys had
+been stationed on a road near the mill, more to keep him out of harm's-
+way than for any thing else; but it so happened that one of the cubs
+came out in that direction, and was shot by him. The people fixed the
+bear's carcase on two poles, mounted him on it, and carried him home in
+triumph. I can hardly express what were my feelings on that occasion,
+although time has not obliterated them: I was dying of jealousy; young
+Pratt had killed a bear, and I had not.
+
+"I went to bed, but could not sleep a wink. The next day the chase was
+renewed, and it so happened that, much in the same way, the other cub
+was killed by the other brother, who, in the same manner, was carried
+home in triumph. I thought I should have died that night; it was on a
+Saturday evening when they returned from this second expedition, and
+they did not go out the next day, as it was the Sabbath. On Sunday
+evening I went over to a cross old man, who had a good dog, and after a
+deal of persuasion, I obtained the loan of it, pledging myself before
+another party, that if it was not returned safe, I would pay him ten
+dollars—rather a bold promise for a boy to make, who had never had more
+than twenty-five cents in his pocket at one time during his life. I took
+the dog to my bed room, tied him fast to my wrist that he might not
 escape during the night, and tried to go to sleep.  I rose before
 daylight on Monday morning, and found that my father had discovered that
 I had employed the Sabbath in looking for a dog; and in consequence, as
@@ -7025,7 +7257,7 @@ that they should fight no longer, but receive redress from it, that they
 now might do what the government had forbidden them to do, and that they
 had no other chance of redress.  The result of this council was very
 unsatisfactory.  The Indian chiefs declared that they were ashamed to
-look their people in the lace, and walked solemnly away.
+look their people in the face, and walked solemnly away.
 
 To make this matter still worse, after I left St Peters, I read in the
 St Louis Gazette a report of some Chippeways having come down, and
@@ -7085,7 +7317,7 @@ upon my bump of benevolence.  Whatever people may think, I feel that no
 one can be very imaginative where these animals are so eternally
 tormenting them.  You meditate under the shady boughs of some
 forest-king (slap knee, slap cheek), and farewell to anything like
-concentration of thought; you ponder on the sailing moon (clap again,
+concentration of thought; you ponder on the sailing moon (slap again,
 right and left, above, below), always unpleasantly interrupted.  It
 won't do at all: you are teased and phlebotomised out of all poetry and
 patience.
@@ -7366,13 +7598,13 @@ deck, made him fast with a large padlock to one of the stancheons.
 
 Here he remained looking wistfully at the northern shore, where every
 one was free, but occasionally glancing his eye on the southern, which
-had condemned him to toil for others, I had never seen a slave-dealer,
+had condemned him to toil for others. I had never seen a slave-dealer,
 and scrutinised this one severely.  His most remarkable feature was his
 eye; it was large but not projecting, clear as crystal, and eternally in
 motion.  I could not help imagining, as he turned it right and left from
 one to the other of the passengers, that he was calculating what price
 he could obtain for them in the market.  The negro had run away about
-seven months before, and not having a pass, he had been secured in goal
+seven months before, and not having a pass, he had been secured in gaol
 until the return of his master, who had been on a journey with a string
 of slaves, to the State of Arkansas: he was about to be sold to pay
 expenses, when his master saw the advertisement and claimed him.  As may
@@ -7400,7 +7632,7 @@ running through hills covered with fine timber and underwood; but a very
 small portion is as yet cleared by the settlers.  At the time that I was
 at Louisville the water was lower than it had been remembered for years,
 and you could walk for miles over the bed of the river, a calcareous
-deposite full of interesting fossils; but the mineralogist and geologist
+deposit full of interesting fossils; but the mineralogist and geologist
 have as much to perform in America as the agriculturist.
 
 Arrived at Cincinnati.  How rapid has been the advance of this western
@@ -7591,7 +7823,7 @@ course, they would not part with their goods and chattels, they remained
 on board of the boat.  The captain took them to the river about twenty
 miles further, and then landed them on the bank, with their luggage, to
 find their way back to Maysville how they could.  This is the usual
-punishment for such trial-practices; but, after all, it is only the
+punishment for such mal-practices; but, after all, it is only the
 punishment of delay, as they would hail the first boat which came down
 the river, make out a piteous tale of ill-treatment, be received on
 board, and landed at their destination.
@@ -16195,7 +16427,7 @@ THE END.
 
 
 
-End of the Project Gutenberg EBook of Diary in America, Series One, by 
+End of the Project Gutenberg EBook of Diary in America, Series One, by
 Frederick Marryat (AKA Captain Marryat)
 
 *** END OF THIS PROJECT GUTENBERG EBOOK DIARY IN AMERICA, SERIES ONE ***
